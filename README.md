@@ -9,7 +9,7 @@ What began as a simple learning exercise in SQL quickly expanded into a full-sta
 
 The website is hosted on a VPS and uses a custom Cloudflare-managed domain. While the back-end pipeline is mostly functional, the front-end and data categorization systems are still being improved. The site will continue to evolve with regular updates and feature enhancements.
 
-🌐 Live site: https://jobs.hugohub.xyz/job-listings/
+🌐 Live site: https://jobs.hugohub.xyz
 Features
 
     Job Aggregation: Fetches European tech job postings through an API.
